@@ -1,3 +1,4 @@
+brew 'awscli'
 brew 'coreutils'
 brew 'direnv'
 brew 'envchain'
