@@ -17,6 +17,7 @@ brew 'reattach-to-user-namespace'
 brew 'ruby-build'
 brew 'tmux'
 brew 'vim'
+brew 'yarn'
 brew 'zsh'
 
 cask '1password'
